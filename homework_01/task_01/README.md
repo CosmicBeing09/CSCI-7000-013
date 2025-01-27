@@ -155,10 +155,10 @@ To scan the project directory and write the Jest configuration file accordingly,
 ---
 
 ### Project Directory Structure
-
+```
 homework_01
   └── task_01/
       ├── binary_search.ts
       ├── binary_search.test.ts
       ├── jest.config.js
- 
+``` 
