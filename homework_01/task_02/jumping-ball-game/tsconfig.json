@@ -1,0 +1,11 @@
+// filepath: /Users/raihan/Library/CloudStorage/OneDrive-UCB-O365/Desktop/CSCI 7000-013/homework_01/task_02/jumping-ball-game/tsconfig.json
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es6",
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "./dist"
+    },
+    "include": ["src/**/*"]
+}
